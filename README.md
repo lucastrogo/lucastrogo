@@ -1,6 +1,6 @@
 ### Olá, me chamo Lucas Trogo 👋
 
-### ⚡ Estudante de **Engenharia de Sistemas e Computação** na Universidade do Estado do Rio de Janeiro 
+#### ⚡ Estudante de **Engenharia de Sistemas e Computação** na Universidade do Estado do Rio de Janeiro 
 #### 🔭 Atualmente estagiando na área de **Segurança da Informação** em uma instituição financeira
 
 ##
