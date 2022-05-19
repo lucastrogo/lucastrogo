@@ -3,6 +3,7 @@
 ### ⚡ Estudante de **Engenharia de Sistemas e Computação** na Universidade do Estado do Rio de Janeiro 
 #### 🔭 Atualmente estagiando na área de **Segurança da Informação** em uma instituição financeira
 
+##
 
 <div align="center">
   <a href="https://github.com/lucastrogo">
