@@ -1,20 +1,5 @@
 <img src="./i-am-not-a-security-threat-security-threat.gif" min-width="400px" max-width="500px" width="450px" top= "0 px" align="right"/>
 <br>
-<div>
-<p> 
-  Me chamo Lucas Trogo, aluno do sexto período de <strong> Engenharia Eletrônica e de Computação da UFRJ </strong>.
-Fui bolsista de iniciação científica pelo CBPF financiado pelo Cnpq na <strong> Análise de dados da colisão de prótons emitidos pelo Large Hadron Collider </strong>.
-<p>
-  
-##
-  
-<p>
- No momento atuo como Estagiário de Segurança da Informação no Banco BOCOM BBM (<strong> Bank Of Communications BBM </strong>), desenvolvendo tarefas no Blue Team da área.
- Amplo interesse e conhecimento na áreas de dados e cybersecurity, conhecimentos esses adquiridos na iniciação científica e atualmente no estágio.
-<p>
-  
- 
-</div>
 
 <div>
 
