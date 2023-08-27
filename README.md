@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="./i-am-not-a-security-threat-security-threat.gif" min-width="400px" max-width="500px" width="450px" top= "0 px" align="right"/>
+  <img src="./i-am-not-a-security-threat-security-threat.gif" min-width="200px" max-width="500px" width="450px" top= "0 px" align="right"/>
+
+  
 </div>
 
-<div>
 
-##
 
 <div align="center">
   <a href="https://github.com/lucastrogo">
