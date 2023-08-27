@@ -2,8 +2,8 @@
 <br>
 <div>
 <p> 
-  Me chamo Lucas Trogo, ex-aluno do curso de <strong> Engenharia Elétrica com Ênfase em Sistemas e Computação </strong> pela UERJ e atualmente aluno do quarto período de <strong> Engenharia Eletrônica e de Computação da UFRJ </strong>.
- Como aluno UERJ desenvolvi projetos em empresa júnior e fui bolsita de iniciação científica pelo CBPF financiado pelo Cnpq na <strong> Análise de dados da colisão de prótons emitidos pelo Large Hadron Collider </strong>.
+  Me chamo Lucas Trogo, aluno do sexto período de <strong> Engenharia Eletrônica e de Computação da UFRJ </strong>.
+Fui bolsita de iniciação científica pelo CBPF financiado pelo Cnpq na <strong> Análise de dados da colisão de prótons emitidos pelo Large Hadron Collider </strong>.
 <p>
   
 ##
