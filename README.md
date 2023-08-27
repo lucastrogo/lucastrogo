@@ -1,6 +1,6 @@
-<img src="./i-am-not-a-security-threat-security-threat.gif" min-width="400px" max-width="500px" width="450px" top= "0 px" align="right"/>
-<br>
-##
+<div align="center">
+  <img src="./i-am-not-a-security-threat-security-threat.gif" min-width="400px" max-width="500px" width="450px" top= "0 px" align="right"/>
+</div>
 
 <div>
 
@@ -15,7 +15,7 @@
 ##
   
   
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
   <img align="center" alt="Lucas-Python" height="40" width="40" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="C-Language" height="40" width="40" src= "https://img.icons8.com/color/452/c-programming.png">
   <img align="center" alt="Power-Shell" height="40" width="40" src= "https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png">
@@ -23,7 +23,7 @@
   
 ##
   
-<div> 
+<div align="center"> 
   <a href="https://www.linkedin.com/in/lucastrogo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 <!--
