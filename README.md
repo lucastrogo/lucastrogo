@@ -7,7 +7,7 @@
 
 # Currículo
 
-[embed]https://github.com/lucastrogo/lucastrogo/blob/main/ResumePT-BR.pdf)[/embed] 
+[embed]https://github.com/lucastrogo/lucastrogo/blob/main/ResumePT-BR.pdf[/embed] 
 
 ## Stats
 
