@@ -5,7 +5,12 @@
   
 </div>
 
-# Currículo --> https://github.com/lucastrogo/lucastrogo/blob/main/ResumePT-BR.pdf
+# Currículo 
+<div align="center"> 
+  <a>https://github.com/lucastrogo/lucastrogo/blob/main/ResumePT-BR.pdf</a> 
+</div>
+
+
 
 
 ## Stats
