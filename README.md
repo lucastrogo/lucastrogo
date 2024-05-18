@@ -5,6 +5,10 @@
   
 </div>
 
+# Currículo
+
+[embed]https://github.com/lucastrogo/lucastrogo/blob/main/ResumePT-BR.pdf)[/embed] 
+
 ## Stats
 
 <div align="center">
