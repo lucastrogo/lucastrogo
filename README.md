@@ -5,9 +5,8 @@
   
 </div>
 
-# Currículo
+# Currículo --> https://github.com/lucastrogo/lucastrogo/blob/main/ResumePT-BR.pdf
 
-[embed]https://github.com/lucastrogo/lucastrogo/blob/main/ResumePT-BR.pdf[/embed] 
 
 ## Stats
 
